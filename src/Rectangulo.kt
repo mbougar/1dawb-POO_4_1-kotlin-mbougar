@@ -37,3 +37,4 @@ class Rectangulo(val base: Double, val altura: Double) {
         return "(Base: $base, Altura: $altura)"
     }
 }
+
