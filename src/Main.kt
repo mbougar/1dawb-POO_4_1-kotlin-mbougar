@@ -28,3 +28,5 @@ fun main() {
     println("Área rectángulo 3: ${rectangulo3.calcArea()}")
     println("Perímetro rectángulo 3: ${rectangulo3.calcPerimetro()}")
 }
+
+
